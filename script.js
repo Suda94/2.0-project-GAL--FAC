@@ -1,5 +1,11 @@
-const button = document.querySelector('.description-button');
-const description = document.querySelector('.desc-more');
+const readMoreBtn = document.querySelector(".description-button");
+const desc = document.querySelector(".desc");
 
-button.addEventListener('click', () => {
-    description.classList.toggle('desc-more');
+readMoreBtn.addEventListener("click", (e) => {
+  desc.classList.toggle("show-more");
+  if (readMoreBtn.innerText === "+") {
+    readMoreBtn.innerText = "-";
+  } else {
+    readMoreBtn.innerText = "+";
+  }
+});
