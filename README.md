@@ -1,17 +1,12 @@
 # 2.0-project-GAL--FAC
-Requirements 
-Your website must meet the following criteria:
+Build a gallery which displays the projects you’ve been working on. You might include this in your application website to showcase what you’ve learnt and created while <br>completing our requirements.
 
-- [x] All code is written by you
-- [ ] No external libraries (e.g. no Bootstrap, React or GitHub Pages themes, but external fonts/icons are fine)
-- [ ] Tells us about who you are
-- [ ] Tells us about why you are applying for the programme
-- [ ] Shows your progress through the application projects (e.g. links to your deployed projects)
-- [ ] Hosted on GitHub Pages
-- [ ] Links back to the GitHub repository that contains the code for your site
-- [ ] To demonstrate your learning your site must have at least one example of each of these:
-
-Semantic HTML5 elements
-- [ ] CSS grid or flexbox layout (or both)
-- [ ] DOM event listeners for user interaction (e.g. click, keydown)
-- [x] DOM updates in response to user interaction (e.g. showing/hiding an element, changing text or styles)
+<br>Like your last project, please push your changes to GitHub and host your site live using GitHub Pages.
+# Requirements: 
+- [ ] Have a section or card for each project
+- [ ] Each card should have a title, an image of your project, and a description
+- [ ] Useflexbox to arrange the cards on the page.
+- [ ] Resize cards based on screen width
+- [ ] Adapt the layout of the gallery when the browser window resizes
+- [ ] Display the cards in a single column on mobile devices
+- [ ] Have a clickable button on each card that opens and closes the description text
