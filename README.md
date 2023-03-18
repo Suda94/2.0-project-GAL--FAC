@@ -3,10 +3,10 @@ Build a gallery which displays the projects you’ve been working on. You might 
 
 <br>Like your last project, please push your changes to GitHub and host your site live using GitHub Pages.
 # Requirements: 
-- [ ] Have a section or card for each project
-- [ ] Each card should have a title, an image of your project, and a description
+- [x] Have a section or card for each project
+- [x] Each card should have a title, an image of your project, and a description
 - [ ] Useflexbox to arrange the cards on the page.
-- [ ] Resize cards based on screen width
+- [x] Resize cards based on screen width
 - [ ] Adapt the layout of the gallery when the browser window resizes
-- [ ] Display the cards in a single column on mobile devices
-- [ ] Have a clickable button on each card that opens and closes the description text
+- [x] Display the cards in a single column on mobile devices
+- [x] Have a clickable button on each card that opens and closes the description text
