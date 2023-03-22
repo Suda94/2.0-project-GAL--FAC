@@ -5,7 +5,7 @@ Build a gallery which displays the projects you’ve been working on. You might 
 # Requirements: 
 - [x] Have a section or card for each project
 - [x] Each card should have a title, an image of your project, and a description
-- [ ] Use nflexbox to arrange the cards on the page.
+- [ ] Use flexbox to arrange the cards on the page.
 - [x] Resize cards based on screen width
 - [ ] Adapt the layout of the gallery when the browser window resizes
 - [x] Display the cards in a single column on mobile devices
