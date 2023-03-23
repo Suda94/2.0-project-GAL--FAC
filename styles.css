@@ -268,11 +268,7 @@ button:hover {
     position: flex;
     margin-bottom: 1rem;
   }
-  .images{
-    /* margin-top: 5rem; */
-
-  }
-}
+ 
 
 /* For screens smaller than 768px  for the images boxes*/
 
@@ -288,9 +284,7 @@ button:hover {
     margin-bottom: 1rem;
   }
  
-  /* .images{
-    /* margin-top: 5rem; */
-  } */
+
   
   .image-item {
     width: 100%;
@@ -320,4 +314,4 @@ button:hover {
     margin-top: 1rem;
   }
 }
-
+}
